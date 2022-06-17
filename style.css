@@ -1,14 +1,14 @@
 
     body {
-        background-color:#A0BCC2;
+        background-color:#8905ee;
     }
 
     hr {
        border-color: darkgreen;
-       background-color:#A0BCC2;
+       background-color: #A0BCC2 ;
         border-style:none;
         border-top-style: dotted;
         border-width: 5px;
         width: 50%;
         
-}
+    }
